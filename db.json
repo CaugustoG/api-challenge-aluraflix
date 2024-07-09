@@ -84,35 +84,35 @@
 	"categorias":[
         {
            "id": 1,
-            "category": "FRONT END", 
+            "category": "FRONT END"
         },
         {
             "id": 2,
-             "category": "BACK END", 
+             "category": "BACK END"
          },
          {
             "id": 3,
-             "category": "FULL STACK", 
+             "category": "FULL STACK" 
          },
          {
             "id": 4,
-             "category": "UX / UI", 
+             "category": "UX / UI" 
          },
          {
             "id": 5,
-             "category": "MOBILE", 
+             "category": "MOBILE" 
          },
          {
             "id": 6,
-             "category": "DevOps", 
+             "category": "DevOps" 
          },
          {
             "id": 7,
-             "category": "DATA SCIENCE", 
+             "category": "DATA SCIENCE" 
          },
          {
             "id": 8,
-             "category": "INNOVACIÓN Y GESTIÓN", 
+             "category": "INNOVACIÓN Y GESTIÓN" 
          }
 ]
 }
